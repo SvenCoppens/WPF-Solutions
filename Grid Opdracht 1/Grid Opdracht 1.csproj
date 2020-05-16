@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Grid_Opdracht_1</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Grid_Opdracht_1.App</StartupObject>
+  </PropertyGroup>
+
+</Project>
